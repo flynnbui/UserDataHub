@@ -17,7 +17,7 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\UserHubCore\UserDataHub.Core.csproj" />
+    <ProjectReference Include="..\UserDataHub.Core\UserDataHub.Core.csproj" />
   </ItemGroup>
 	
 </Project>

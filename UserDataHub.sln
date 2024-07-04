@@ -8,7 +8,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserDataHub.WebAPI", "UserD
 		{C975465E-B0B9-41F9-8A0E-8EC46740CB60} = {C975465E-B0B9-41F9-8A0E-8EC46740CB60}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserDataHub.Core", "UserHubCore\UserDataHub.Core.csproj", "{C975465E-B0B9-41F9-8A0E-8EC46740CB60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserDataHub.Core", "UserDataHub.Core\UserDataHub.Core.csproj", "{C975465E-B0B9-41F9-8A0E-8EC46740CB60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
