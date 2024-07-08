@@ -1,1 +1,1 @@
-Template for RabbitMQ Producer in .Net 8
+Template for UserDataHub Producer using RabbitMQ in .Net 8
