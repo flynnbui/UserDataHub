@@ -4,6 +4,6 @@ namespace UserDataHub.Core.DTOs
 {
     public record UpdateUserInfoDto(
         string EnrollmentFormCode,
-        Member MemberData
+        UserData UserData
     );
 }

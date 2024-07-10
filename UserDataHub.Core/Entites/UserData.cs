@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace UserDataHub.Core.Entities
 {
-    public class Member
+    public class UserData
     {
         [Required]
         public string Address { get; set; }
